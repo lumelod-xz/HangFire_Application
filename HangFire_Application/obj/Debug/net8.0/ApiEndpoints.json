@@ -1,0 +1,58 @@
+[
+  {
+    "ContainingType": "HangFire_Application.Controllers.JobController",
+    "Method": "ListaInteiros",
+    "RelativePath": "api/Job",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HangFire_Application.Controllers.JobController",
+    "Method": "CriarBackgroundJob",
+    "RelativePath": "api/Job/CriarBackgroundJob",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HangFire_Application.Controllers.JobController",
+    "Method": "CriarContinuationJob",
+    "RelativePath": "api/Job/CriarContinuationJob",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HangFire_Application.Controllers.JobController",
+    "Method": "CriarRecurringJob",
+    "RelativePath": "api/Job/CriarRecurringJob",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HangFire_Application.Controllers.JobController",
+    "Method": "CriarScheduledJob",
+    "RelativePath": "api/Job/CriarScheduledJob",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Documents\\00 - Cursos\\Projetos .Net\\HangFire_Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97DF560D-785E-45EE-A052-53E2C3EFBB9A}|HangFire_Application\\HangFire_Application.csproj|c:\\users\\lucas\\documents\\00 - cursos\\projetos .net\\hangfire_application\\hangfire_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DF560D-785E-45EE-A052-53E2C3EFBB9A}|HangFire_Application\\HangFire_Application.csproj|solutionrelative:hangfire_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DF560D-785E-45EE-A052-53E2C3EFBB9A}|HangFire_Application\\HangFire_Application.csproj|c:\\users\\lucas\\documents\\00 - cursos\\projetos .net\\hangfire_application\\hangfire_application\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DF560D-785E-45EE-A052-53E2C3EFBB9A}|HangFire_Application\\HangFire_Application.csproj|solutionrelative:hangfire_application\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\00 - Cursos\\Projetos .Net\\HangFire_Application\\HangFire_Application\\Program.cs",
+              "RelativeDocumentMoniker": "HangFire_Application\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\00 - Cursos\\Projetos .Net\\HangFire_Application\\HangFire_Application\\Program.cs",
+              "RelativeToolTip": "HangFire_Application\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAC0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T19:34:18.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\00 - Cursos\\Projetos .Net\\HangFire_Application\\HangFire_Application\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "HangFire_Application\\Controllers\\JobController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\00 - Cursos\\Projetos .Net\\HangFire_Application\\HangFire_Application\\Controllers\\JobController.cs",
+              "RelativeToolTip": "HangFire_Application\\Controllers\\JobController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwEIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T18:35:47.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
